@@ -1,0 +1,124 @@
+.boxes{
+    width:500px;
+    margin:50px;
+    margin-left:100px;
+}
+
+.red{
+    color:red;
+}
+
+.wrapper{
+    display:flex;
+}
+
+.blue{
+    color:#009AC7;
+}
+
+.head{
+    border-bottom: solid black 2px;
+    display:flex;
+    justify-content:space-between;
+    width:1200px;
+}
+
+.headright{
+    display:flex;
+}
+
+.content{
+    display:flex;
+}
+
+.receive{
+    border-right:solid black 2px;
+    width:500px;
+
+}
+
+.send{
+    width:500px;
+}
+
+.message{
+    display:inline;
+}
+
+.head_right{
+    margin-left:50%;
+    width:10%;
+    justify-content:space-between;
+    display:flex;
+}
+
+.message_box{
+    margin:10px;
+    width:50%;
+}
+
+.wall_head{
+    display:flex;
+    justify-content:space-between;
+    border-bottom:solid black 2px;
+}
+
+.message_content{
+    border: solid #007BFF 2px;
+    border-radius:5%;
+    width:30%;
+    margin: 10px;
+    padding: 5px;
+}
+
+.message_info{
+    margin:10px;
+}
+
+.comment_box{
+    margin:10px;
+    width:20%;
+}
+
+.books_head{
+    display:flex;
+    justify-content:space-between;
+}
+.books_body{
+    margin:50px;
+    padding:10px;
+    display:flex;
+}
+
+.recent_book_reviews{
+    margin:20px;
+}
+.other_book_reviews{
+    margin:200px;
+}
+
+.list-group{
+    width:90%;
+    max-height:50%;
+    overflow-y:scroll;
+}
+
+.review{
+    padding:10px;
+    border:2px solid black;
+}
+
+.books_head_right{
+    display:flex;
+    margin-left:90%
+}
+
+.addbook_top_nav{
+    margin-left:60%;
+    padding:15px;
+}
+
+.user_nav{
+    display:flex;
+    margin-left:90%;
+}
